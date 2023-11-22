@@ -1,7 +1,5 @@
-#Movie Recommendation Telegram Bot
-
+Movie Recommendation Telegram Bot
 Overview
-
 This project features a Telegram bot that recommends movies based on user preferences. It leverages a Machine Learning algorithm to analyze and suggest films that align closely with the user's taste.
 
 Features
