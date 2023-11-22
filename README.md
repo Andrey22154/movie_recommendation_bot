@@ -12,9 +12,8 @@ This project implements a Telegram bot for movie recommendations. Users can inte
 1. The user sends a movie title to the Telegram bot.
 2. If the bot identifies multiple movies with the same title, it asks the user to specify the year of release.
 3. Once the exact movie is identified, the bot processes the dataset to find and return a list of similar movies.
-![Alt text](https://github.com/Andrey22154/movie_recommendation_bot/blob/main/CHO4kDIwPQo.jpg)
-![Alt text](https://github.com/Andrey22154/movie_recommendation_bot/blob/main/2YHb5KwXT0Y.jpg)
-![Alt text](https://github.com/Andrey22154/movie_recommendation_bot/blob/main/mnEqD4iiYPI.jpg)
+<img src="https://github.com/Andrey22154/movie_recommendation_bot/blob/main/CHO4kDIwPQo.jpg" width="250"><img src="https://github.com/Andrey22154/movie_recommendation_bot/blob/main/2YHb5KwXT0Y.jpg" width="250"><img src="https://github.com/Andrey22154/movie_recommendation_bot/blob/main/mnEqD4iiYPI.jpg" width="250">
+
 
 
 ## Data Processing
